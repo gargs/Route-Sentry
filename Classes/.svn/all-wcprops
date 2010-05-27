@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes
+END
+LocationsAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/LocationsAppDelegate.m
+END
+MapViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/MapViewController.h
+END
+LocationPlacemark.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/route_sentry/!svn/ver/8/trunk/Route%20Sentry/Classes/LocationPlacemark.m
+END
+Route_SentryAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/Route_SentryAppDelegate.h
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/Event.h
+END
+MapViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/MapViewController.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/RootViewController.h
+END
+MapView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/MapView.xib
+END
+Route_SentryAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/Route_SentryAppDelegate.m
+END
+Event.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/Event.m
+END
+LocationsAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/LocationsAppDelegate.h
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/RootViewController.m
+END
+LocationPlacemark.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/route_sentry/!svn/ver/6/trunk/Route%20Sentry/Classes/LocationPlacemark.h
+END
